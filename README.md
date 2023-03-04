@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+
+<div>
+  <img src="https://github.com/omadli/omadli/raw/master/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</div>
+
 <!--
 **asrayev/asrayev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
